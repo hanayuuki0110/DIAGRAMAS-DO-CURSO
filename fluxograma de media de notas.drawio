@@ -67,7 +67,7 @@
             <mxPoint x="320" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="324FYDJHdlTDjTDhxgua-14" value="X; Y; Z; igual, maior, ou igual a M" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="324FYDJHdlTDjTDhxgua-14" value="X; Y; Z; menor, maior, ou igual a M" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="240" y="1000" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="324FYDJHdlTDjTDhxgua-15" value="media = M" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -238,7 +238,7 @@
         <mxCell id="324FYDJHdlTDjTDhxgua-80" value="V igual a M" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1283" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="324FYDJHdlTDjTDhxgua-81" value="V maior que M" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="324FYDJHdlTDjTDhxgua-81" value="V maior que M" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="324FYDJHdlTDjTDhxgua-82" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
